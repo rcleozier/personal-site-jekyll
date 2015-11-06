@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Jamaican Wedding"
-date:   2015-11-06 12:42:18 -0500
+date:   2015-07-29 12:42:18 -0500
 categories: trips
 ---
 Negril, Jamaica

@@ -1,0 +1,48 @@
+---
+layout: post
+title:  "EPIC 2014 10 years later"
+date:   2015-11-06 12:42:18 -0500
+categories: tech
+---
+
+It's been 10 years since I first watched EPIC 2014 in a Javascript class in college. 10 years later, many of the privacy and copyright issues raised in the film are coming into fruition. If you've never watched EPIC 2014, check it out below.
+
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/AT9ho2G0N_Y" frameborder="0" allowfullscreen></iframe>
+
+##### Summary/Transcript taken from Wikipedia
+
+
+The plot consists of a series of real life events from 1989 to 2004, and going through a series of hypothetical events through 2014. The first sentence of the running commentary quotes Charles Dickens' A Tale of Two Cities: "It was the best of times, it was the worst of times."
+
+In 1989, Tim Berners-Lee invents the World Wide Web.
+
+In 1994, Amazon.com is launched. It is a store that sells everything, personalized for its users, that can even offer suggestions.
+
+In 1998, Google is unleashed by two Stanford University students, promising a faster, more effective way to search.
+
+In 1999, Blogger is founded. Google comes out with Google News, a service unique in that it requires no human intervention.
+
+In 2002, Friendster is released.
+
+In 2003, Google buys Blogger.
+
+In 2004, the rise of Gmail gives competition to Microsoft's Hotmail. Microsoft's Newsbot comes as a response to Google News. Picasa and A9 are also released this year. In August, Google goes public, acquires Keyhole (now Google Earth), a company that maps the world, and begins digitizing and indexing world libraries. Reason Magazine sends its subscribers satellite photos of their homes, with information tailored to them inside.
+
+From this point EPIC passes into the realm of fiction.
+
+In 2005, Microsoft buys Friendster in response to Google's action. Apple Computer comes out with WifiPod, which allows users to "send and receive messages on the go". Then, Google unveils the Google Grid, a universal platform offering an unlimited amount of space and bandwidth that can be used to store anything. It allows users to manage their information two ways: store it privately or publish it to the entire grid.
+
+In 2007, Microsoft Newsbotster, a social news network, ranks and sorts news. It allows everyone to comment on what they see.
+
+In 2008, Google and Amazon merge to form Googlezon. Google supplies Google Grid, Amazon supplies their personalized recommendations. Googlezon is a system that automatically searches all content sources and splices together stories to cater to the interests of each individual user.
+
+When explaining how Googlezon profiles its users, the identification card of a man named Winston Smith appears on screen. Smith is the main character in George Orwell's classic novel Nineteen Eighty-Four, in which a dystopian society is ruled by a media-distorting government.[2] The photograph on the identification card depicts Robin Sloan.
+
+In 2010, the news wars rage between Microsoft and Googlezon. These "News Wars of 2010" are notable in that they involve no actual news organizations.
+
+In 2011, the slumbering Fourth Estate awakens to make its first and final stand. The New York Times sues Googlezon, "claiming the fact-stripping robots are a violation of copyright law", but the Supreme Court rules in favor of Googlezon.
+
+In 2014, Googlezon unleashes EPIC, the Evolving Personalized Information Construct, which pays users to contribute any information they know into a central grid, allowing the system to automatically create news tailored to individuals, entirely without journalists. The word "EPIC" is an amalgam of three fundamental physical and mathematical constants[citation needed]; e (Euler's number), pi (π) and c (the speed of light in a vacuum). These are depicted in the shadow of the EPIC logo.
+
+EPIC stores and categorizes not only news, but the demographics, political beliefs, and consumption habits of every user. At its best, EPIC is "a summary of the world—deeper, broader and more nuanced than anything ever available before ... but at its worst, and for too many, EPIC is merely a collection of trivia, much of it untrue." EPIC is so popular that it triggers the downfall of the New York Times, which goes offline and becomes "a print newsletter for the elite and the elderly." It must also be noted that the narrative follows the epic format, with the clashing of antagonistic entities, conquests and retreats, a concern for genealogy, and the central moral question, often rough and binary but also thrilling, of good vs. evil.
