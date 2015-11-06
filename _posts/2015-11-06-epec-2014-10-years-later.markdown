@@ -7,8 +7,9 @@ categories: tech
 
 It's been 10 years since I first watched EPIC 2014 in a Javascript class in college. 10 years later, many of the privacy and copyright issues raised in the film are coming into fruition. If you've never watched EPIC 2014, check it out below.
 
-
-<iframe width="640" height="360" src="https://www.youtube.com/embed/AT9ho2G0N_Y" frameborder="0" allowfullscreen></iframe>
+<div class="video-container">
+    <iframe src="http://www.youtube.com/embed/AT9ho2G0N_Y" frameborder="0" width="560" height="315"></iframe>
+</div>
 
 ##### Summary/Transcript taken from Wikipedia
 
