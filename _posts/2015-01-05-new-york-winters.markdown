@@ -4,7 +4,8 @@ title:  "New York Winters"
 date:   2015-01-05 12:42:18 -0500
 categories: photos
 ---
-Photos taken in Queens and Brookyn.
+
+A few photos taken in Queens and Brookyn in February after a winter snow storm.
 
 ![New York Winters]({{ site.url }}/assets/images/albums/winter/11007869_363277467192619_1049079296_n.jpg)
 <br/><br/>

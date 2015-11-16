@@ -11,7 +11,7 @@ It's been 10 years since I first watched EPIC 2014 in a Javascript class in coll
     <iframe src="http://www.youtube.com/embed/AT9ho2G0N_Y" frameborder="0" width="560" height="315"></iframe>
 </div>
 
-##### Summary/Transcript taken from Wikipedia
+##### Summary taken from Wikipedia
 
 
 The plot consists of a series of real life events from 1989 to 2004, and going through a series of hypothetical events through 2014. The first sentence of the running commentary quotes Charles Dickens' A Tale of Two Cities: "It was the best of times, it was the worst of times."
@@ -45,5 +45,3 @@ In 2010, the news wars rage between Microsoft and Googlezon. These "News Wars of
 In 2011, the slumbering Fourth Estate awakens to make its first and final stand. The New York Times sues Googlezon, "claiming the fact-stripping robots are a violation of copyright law", but the Supreme Court rules in favor of Googlezon.
 
 In 2014, Googlezon unleashes EPIC, the Evolving Personalized Information Construct, which pays users to contribute any information they know into a central grid, allowing the system to automatically create news tailored to individuals, entirely without journalists. The word "EPIC" is an amalgam of three fundamental physical and mathematical constants[citation needed]; e (Euler's number), pi (π) and c (the speed of light in a vacuum). These are depicted in the shadow of the EPIC logo.
-
-EPIC stores and categorizes not only news, but the demographics, political beliefs, and consumption habits of every user. At its best, EPIC is "a summary of the world—deeper, broader and more nuanced than anything ever available before ... but at its worst, and for too many, EPIC is merely a collection of trivia, much of it untrue." EPIC is so popular that it triggers the downfall of the New York Times, which goes offline and becomes "a print newsletter for the elite and the elderly." It must also be noted that the narrative follows the epic format, with the clashing of antagonistic entities, conquests and retreats, a concern for genealogy, and the central moral question, often rough and binary but also thrilling, of good vs. evil.

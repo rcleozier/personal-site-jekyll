@@ -16,10 +16,12 @@ Even with the above issues, having a static content website was still pretty int
 * Very few moving parts. The only part the really moves is running 'Jekyll Build' which builds you're site into a static files.
 * It's super fast. Pages load in under a second.
 * The templating makes sense. If you've ever used a templating engine before weather its Laraval blade or Javascripts Mustache, you can use Jekyll
+* Feels very lightweight
 
 
 ### The cons
+* No Rich Test Editor. Use your favorite IDE or text editor to write your markdown blog posts.
 * No plugins to handle SEO for you. No Yoast! Seo is all on you. But that's also an opppurnity to brush up on your SEO skills i guess.
-* No real eco system. So
+* No real eco system.
 * Since it's makrdown, theres no spell check
 * No easy way to handle assets
