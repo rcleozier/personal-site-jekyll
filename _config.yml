@@ -16,3 +16,4 @@ github_username:  rcleozier
 
 # Build settings
 markdown: kramdown
+highlighter: Pygments
