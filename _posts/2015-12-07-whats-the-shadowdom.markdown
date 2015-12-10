@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What's The Shadow Dom"
-date:   2015-12-07 12:40:00 -0500
+date:   2015-12-07 8:45:00 -0500
 categories: html
 ---
 

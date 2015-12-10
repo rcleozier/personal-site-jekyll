@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Javascript Promises"
-date:   2015-12-06 11:27:00 -0500
+date:   2015-12-06 21:27:00 -0500
 categories: javascript
 ---
 
