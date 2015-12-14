@@ -11,7 +11,7 @@ In my last post, I discussed using Promises natively in Javascript without the n
 
 A polyfill is added functionality that provides a fall back for features that may not be supported by a browser. If the browser doesn't support an Api, then the polyfill installs its own implementation. Also a polyfill can be written in another language and is not just limited to Javascript. A shim is often used interchangeably to define a polyfill but whats a shim?
 
-** A Shim **
+**A Shim**
 
 A shim, on the other hand, refers to any piece of code that performs interception of an API call and provides a layer of abstraction. It isn't necessarily restricted to a web application or HTML5/CSS3.
 

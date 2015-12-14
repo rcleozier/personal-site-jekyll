@@ -10,6 +10,7 @@ layout: default
   {% for post in site.posts %}
     <li>
       <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      {{ post.excerpt }}
       {% assign foundImage = 0 %}
       {% assign images = post.content | split:"<img " %}
       {% for image in images %}
@@ -22,7 +23,6 @@ layout: default
             {% endif %}
         {% endif %}
       {% endfor %}
-      {{ post.excerpt }}
     </li>
   {% endfor %}
   </ul>
