@@ -10,7 +10,7 @@ You can do some pretty neat things, like have your app to run more efficiently w
 
 ##### Battery Promise
 
-{% highlight javascript %
+{% highlight javascript %}
   navigator.getBattery().then(function(battery) {
     // battery.chargingTime 
     // battery.dischargingTime
@@ -24,7 +24,7 @@ You can do some pretty neat things, like have your app to run more efficiently w
 
 There are also  battery events that you can listen to. These events are for when the battery charging status has changed, battery level has changed, charging total time has changed and finally disacharging time has changed.
 
-{% highlight javascript %
+{% highlight javascript %}
   // Charing time change
   battery.addEventListener('chargingtimechange', function() {
     // battery.chargingTime "seconds"
