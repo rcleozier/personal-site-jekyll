@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Just my blog.
+Just my blog or random photos and programming shorts

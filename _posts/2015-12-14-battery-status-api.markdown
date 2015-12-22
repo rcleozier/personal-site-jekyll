@@ -22,7 +22,7 @@ You can do some pretty neat things, like have your app to run more efficiently w
 
 ##### Battery Events
 
-There are also  battery events that you can listen to. These events are for when the battery charging status has changed, battery level has changed, charging total time has changed and finally disacharging time has changed.
+There are also  battery events that you can listen to. These events are for when the battery charging status has changed, battery level has changed, charging total time has changed and finally discharging time has changed.
 
 {% highlight javascript %}
   // Charing time change
@@ -48,4 +48,4 @@ There are also  battery events that you can listen to. These events are for when
 
 
 Read more about the battery status api below
-[Battery Status API](https://developer.mozilla.org/en-US/docs/Web/API/Battery_Status_API)
+https://developer.mozilla.org/en-US/docs/Web/API/Battery_Status_API

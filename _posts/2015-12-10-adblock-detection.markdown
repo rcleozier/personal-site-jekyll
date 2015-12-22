@@ -5,7 +5,7 @@ date:   2015-12-10 9:12:00 -0500
 categories: javascript
 ---
 
-One way to detect the presense of an ad blocker if you're using google adsense on your website is to check if google_jobrunner is defined on your page. It should be undefined and never loaded if an adblocker is present. The code below uses a setTimeout() to let the google adsense javascript download and create a new instance. 
+One way to detect the presence of an ad blocker if you're using google adsense on your website is to check if google_jobrunner is defined on your page. It should be undefined and never loaded if an adblocker is present. The code below uses a setTimeout() to let the google adsense javascript download and create a new instance.
 
 {% highlight javascript %}
 <script>
@@ -33,22 +33,16 @@ var canRunAds = true;
 **Your main code**
 
 {% highlight html %}
-<html>
-  <head>
-    <script src="/js/ads.js"></script>
-  </head>
+  <script src="/js/ads.js"></script>
   <body>
     <script>
       if( window.canRunAds === undefined ){
-        // adblocker detected, show fallback
         showFallbackImage();
       }
     </script>
-  </body>
-</html>
 {% endhighlight %}
 
-The solution I ended up using was a library called fuckAdBlock. It has a few customizable options like continuous polling, calling on look and various callback methods. Check out a sample below. The full library can be grabbed at github
+The solution I ended up using was a library called fuckAdBlock. It has a few customizable options like continuous polling, calling on look and various callback methods. Check out a sample below. The full library can be grabbed at Github
 
 {% highlight javascript %}
 fuckAdBlock.setOption({
@@ -61,4 +55,4 @@ fuckAdBlock.onDetected(adBlockDetected);
 fuckAdBlock.onNotDetected(adBlockNotDetected)
 {% endhighlight %}
 
-[Ad Blocker GitHub](https://github.com/sitexw/FuckAdBlock/releases)
+https://github.com/sitexw/FuckAdBlock/releases

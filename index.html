@@ -16,7 +16,7 @@ layout: default
       {% for image in images %}
         {% if image contains 'src' %}
 
-            {% if foundImage == 0 %}
+            {% if foundImage > 0 %}
                 {% assign html = image | split:"/>" | first %}
                 <img {{ html }} />
                 {% assign foundImage = 1 %}
@@ -28,5 +28,4 @@ layout: default
   </ul>
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
 </div>
