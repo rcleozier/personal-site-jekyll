@@ -8,7 +8,7 @@
 # Site settings
 title: Rob Cleozier Blog
 description: > # this means to ignore newlines until "baseurl:"
-  My personal blog. Just random photos and some programming related posts
+  My personal blog. Just random photos and programming related posts
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://robbinscleozier.com" # the base hostname & protocol for your site
 twitter_username: robsmanifesto

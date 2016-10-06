@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "AWS Command Line Tools"
-date:   2016-03-31 8:13:41 -0500
+title: "AWS Command Line Tools"
+date: 2016-03-31 8:13:41 -0500
 categories: linux
 ---
 
 #####AWS Cli
 
-Recently I wrote a php script that would run daily using a cron tab to back up images to Amazon S3. The process required me to include the AWS PHP package, write PHP code that opens a directory, loops through every file and push each image to S3 even if it was already present on S3. 
+Recently I wrote a php script that would run daily using a cron tab to back up images to Amazon S3. The process required me to include the AWS PHP package, write PHP code that opens a directory, loops through every file and push each image to S3 even if it was already present on S3.
 
-After further research I ran into the AWS ClI. The AWS CLI supports copying, moving, and syncing from Amazon S3 to Amazon S3 all from the command line. 
+After further research I ran into the AWS ClI. The AWS CLI supports copying, moving, and syncing from Amazon S3 to Amazon S3 all from the command line.
 
 AWS cli commands are just like running linux commands from your terminal.
 
