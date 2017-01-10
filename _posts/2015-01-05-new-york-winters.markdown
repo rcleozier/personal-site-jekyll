@@ -5,7 +5,7 @@ date:   2015-01-05 12:42:18 -0500
 categories: photos
 ---
 
-A few photos taken in Queens and Brookyn in February after a winter snow storm.
+A few photos taken in Queens and Brooklyn in February after a winter snow storm.
 
 ![New York Winters]({{ site.url }}/assets/images/albums/winter/11007869_363277467192619_1049079296_n.jpg)
 <br/><br/>
