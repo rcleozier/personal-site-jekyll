@@ -1,22 +1,8 @@
 ---
 layout: post
-title:  "Momentum"
-date:   2017-01-15 21:42:18 -0500
-categories:
+title:  "01/12/17"
+date:   2017-01-12 21:42:18 -0500
+categories: vlog
 ---
 
-## Momentum
-
-Momentum is the impetus gained by a moving object.
-
-Momentum is slow
-Momentum is a process that takes time
-Momentum is as simple as taking a single step
-Momentum is what keeps you going when you're tired
-Momentum is what's missing when people quit too early
-Momentum is what keeps you going when you want to stop
-Momentum is hard to get going then becomes hard to stop
-
-How do you gain momentum?
-
-START
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ksx8a02nOng" frameborder="0" allowfullscreen></iframe>
