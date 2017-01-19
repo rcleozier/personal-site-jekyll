@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Creating a Mongo data schema"
+title:  "Phonegap local notifications"
 date:   2016-02-08 8:13:41 -0500
-categories: javascript, phonegap
+categories: javascript
 ---
 
 #####Local notifications in phonegap
