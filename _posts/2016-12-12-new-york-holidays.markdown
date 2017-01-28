@@ -3,7 +3,6 @@ layout: post
 title:  "New York Winters"
 date:   2016-12-25 21:42:18 -0500
 categories: photos
-future: true
 ---
 
 It's the holidays in NYC!

@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Just random musings
+I'm Robbins, I like to make things.

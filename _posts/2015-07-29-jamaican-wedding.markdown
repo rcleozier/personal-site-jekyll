@@ -1,11 +1,9 @@
 ---
 layout: post
-title:  "Jamaican Wedding"
+title:  "Jamaica"
 date:   2015-07-29 12:42:18 -0500
-categories: trips
+categories: photos
 ---
-
-In June one of my close friends got hitched in Jamaica. Here are 2 photos I took from our beach side resort.
 
 ![Jamaican Wedding]({{ site.url }}/assets/images/albums/jamaica/11251827_448609995318995_1697920308_n.jpg)
 <br/><br/>

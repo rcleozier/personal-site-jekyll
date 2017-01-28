@@ -5,8 +5,6 @@ date:   2015-11-16 1:00:00 -0500
 categories: photos
 ---
 
-<p> Photos from my trip to Dubai in May 2015 </p>
-
 ![Dubai]({{ site.url }}/assets/images/albums/dubai/11203179_1608355426076778_1228975387_n.jpg)
 <br/><br/>
 ![Dubai]({{ site.url }}/assets/images/albums/dubai/11199537_879146408814535_1577280418_n.jpg)

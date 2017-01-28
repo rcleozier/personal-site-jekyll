@@ -3,7 +3,6 @@ layout: post
 title:  "What to work on?"
 date:   2017-01-05 21:42:18 -0500
 categories: life
-future: true
 ---
 
 Starting a new year for me usually involves me getting excited about of all the projects that I want to complete the upcoming year. Realistically, I'll be looking at this back at this list in December and wondering what happened?

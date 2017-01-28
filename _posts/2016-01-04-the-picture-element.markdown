@@ -4,7 +4,6 @@ title:  "The Picture Element"
 date:   2016-01-04 8:22:45 -0500
 categories: html
 ---
-
 Let say you wanted to include an image on your webpage, that would be sized accordingly to the users browser, it would probably go something like this.
 
 {% highlight html %}

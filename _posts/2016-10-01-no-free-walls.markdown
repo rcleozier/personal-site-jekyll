@@ -2,7 +2,7 @@
 layout: post
 title: "Brooklyn, Graffiti, and Gentrification: Breaking Down Complex's New Documentary 'No Free Walls'"
 date: 2016-10-01 12:00:00 -0500
-categories: random
+categories: complex
 ---
 
 ### Brooklyn, Graffiti, and Gentrification: Breaking Down Complex's New Documentary 'No Free Walls'
