@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "01/12/17"
+title:  "Vlog 01/12/17"
 date:   2017-01-12 21:42:18 -0500
 categories: vlog
 ---
