@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "NYC Subway"
+title:  "Subway"
 date:   2017-02-28 21:42:18 -0500
 categories: photos
 ---
