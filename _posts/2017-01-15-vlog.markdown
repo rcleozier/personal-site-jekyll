@@ -5,4 +5,6 @@ date:   2017-01-12 21:42:18 -0500
 categories: vlog
 ---
 
+<div class="video-container">
 <iframe width="100%" src="https://www.youtube.com/embed/Ksx8a02nOng" frameborder="0" allowfullscreen></iframe>
+</div>
