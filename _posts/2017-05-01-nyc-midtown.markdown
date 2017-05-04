@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "NYC Midtown"
-date:   2017-05-01 21:42:18 -0500
+title:  "Midtown"
+date:   2017-05-03 22:00:10 -0500
 categories: photos
 ---
 
