@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Haiti"
+date:   2017-08-25 12:14:10 -0500
+categories: photos
+---
+
+![Haiti]({{ site.url }}/assets/images/albums/haiti/20687264_115887869069151_253146411808325632_n.jpg)
+<br/><br/>
+
+![Haiti]({{ site.url }}/assets/images/albums/haiti/20759689_110404826314318_9025147201516470272_n.jpg)
+<br/><br/>
