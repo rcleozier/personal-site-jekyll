@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+        <meta content="utf-8" http-equiv="encoding">
+        <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1">
+        <script
+        src="https://code.jquery.com/jquery-2.2.4.min.js"
+        integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+        crossorigin="anonymous"></script>
+        <script src="http://ajax.microsoft.com/ajax/jquery.templates/beta1/jquery.tmpl.min.js"></script>
+        <script src="test.js"> </script>
+
+        <style>
+            #feed {
+                display: -webkit-flex;
+                display: flex;
+                -webkit-align-items: center;
+                align-items: center;
+                flex-wrap: wrap;
+            }
+
+            .feed-item {
+                padding: 10px;
+                width: calc(100% * (1/2) - 20px);
+                justify-content: left;
+                overflow: hidden;
+                box-sizing: border-box;
+            }
+
+            .feed-time img {
+                width: 100%;
+            }
+
+            .feed-item a {
+                color: #333;
+                font-weight: bold;
+            }
+
+            .feed-caption {
+                color: #333;
+            }
+
+            .feed-title {
+                font-weight: bold;
+            }
+        </style>
+    </head>
+    <body>
+      <div id="feed">
+
+      </div>
+
+      <script>
+        var feed = new Feed();
+        feed.init();
+      </script>
+    </body>
+</html>
