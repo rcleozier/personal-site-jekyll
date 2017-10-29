@@ -48,19 +48,26 @@ var Feed = function() {
         var render = [post];
         this.renderPost(render);
     };
+
+    this.lazyLoadImages();
   }
 
   this.renderPost = function(posts) {
-    var markup = "<div class='${className}'> <p class='feed-title'>${title}</p><img src='${image}'/> <div id='${target}'> </div> <p class='feed-caption'> ${caption} </p></div>";
+    var markup = "<div class='${className}'> <p class='feed-title'>${title}</p><img class='lazyload' src='${image}'/> <div id='${target}'> </div> <p class='feed-caption'> ${caption} </p></div>";
     $.template( "movieTemplate", markup );
     $.tmpl( "movieTemplate", posts )
      .appendTo( "#feed" );
 
      var target = '#' + posts[0].target;
      for (var y = 0; y < posts[0].images.length; y++){
-        $(target).prepend($('<img>',{id:'theImg',src:posts[0].images[y]}));
+        $(target).prepend($('<img>',{class:'lazyload',src:posts[0].images[y]}));
      };
   };
+
+  this.lazyLoadImages = function() {
+      let images = document.querySelectorAll(".lazyload");
+      var a = lazyload(images);
+  }
 
 
 };

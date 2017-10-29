@@ -1,0 +1,42 @@
+#feed {
+    display: -webkit-flex;
+    display: flex;
+    -webkit-align-items: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.feed-container {
+    min-height: 700px;
+}
+
+.feed-item {
+    padding: 10px;
+    width: 100%;
+    justify-content: left;
+    overflow: hidden;
+    box-sizing: border-box;
+    border-bottom: 1px solid #7D690D;
+}
+
+.feed-item img {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.feed-item a {
+    color: #7D690D;
+    font-weight: bold;
+    text-decoration: underline;
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+.feed-caption {
+    color: #333;
+    text-align: left;
+}
+
+.feed-title {
+    font-weight: bold;
+}

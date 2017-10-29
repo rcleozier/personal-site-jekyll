@@ -17,6 +17,17 @@ body {
 
 #navigation {
 	margin-top: 10px;
+	max-width: 1170px;
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	height: 20px;
+
+	padding-right: 15px;
+	    padding-left: 15px;
+	    margin-right: auto;
+	    margin-left: auto;
 }
 
 #menu-standard {
@@ -114,7 +125,8 @@ body {
 .client-list li {
 	list-style-type: none;
 	font-size: 14px;
-	color: #6c6c6c;
+	/*color: #6c6c6c;*/
+	color: #000;
 	text-transform: uppercase;
 }
 
