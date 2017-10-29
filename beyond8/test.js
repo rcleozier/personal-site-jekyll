@@ -15,10 +15,16 @@ var Feed = function() {
 
   this.converted = function(posts) {
     for (var i = 0; i < posts.length; i++) {
-        console.log(posts);
-
         var caption = posts[i]['photo-caption'];
         var image = posts[i]['photo-url-1280'];
+        var photos = posts[i]['photos'];
+        var images = [];
+
+        if (photos) {
+          for (var x = 0; x < photos.length; x++) {
+              images.push(photos[x]["photo-url-1280"]);
+          }
+        }
 
         if (!image) {
           continue;
@@ -34,6 +40,9 @@ var Feed = function() {
           'caption': caption,
           'date': posts[i]['date'],
           'url': posts[i]['url'],
+          'images': images,
+          'className': 'feed-item',
+          'target': 'feed-item-' + i,
         };
 
         var render = [post];
@@ -42,9 +51,16 @@ var Feed = function() {
   }
 
   this.renderPost = function(posts) {
-    var markup = "<div class='feed-item'> <p class='feed-title'>${title}</p><img src='${image}'/> <p class='feed-caption'> ${caption} </p> <a href='${url}'> Read More </a></div>";
+    var markup = "<div class='${className}'> <p class='feed-title'>${title}</p><img src='${image}'/> <div id='${target}'> </div> <p class='feed-caption'> ${caption} </p></div>";
     $.template( "movieTemplate", markup );
     $.tmpl( "movieTemplate", posts )
      .appendTo( "#feed" );
+
+     var target = '#' + posts[0].target;
+     for (var y = 0; y < posts[0].images.length; y++){
+        $(target).prepend($('<img>',{id:'theImg',src:posts[0].images[y]}));
+     };
   };
+
+
 };

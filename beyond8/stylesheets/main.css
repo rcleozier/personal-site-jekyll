@@ -11,18 +11,23 @@ body {
 	width: 80% !important;
 }
 
+.hidden {
+	display: none;
+}
+
 #navigation {
-		margin-top: 5%;
+	margin-top: 10px;
 }
 
 #menu-standard {
-  float: right;
+  float: left;
+	padding-left: 0px;
 }
 
 #menu-standard li {
   list-style-type: none;
-	display: block;
-	text-align: right;
+	display: inline-block;
+	text-align: left;
 }
 
 .menu-item a {
