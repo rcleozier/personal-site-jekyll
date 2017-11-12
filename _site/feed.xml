@@ -6,8 +6,8 @@
 </description>
     <link>http://robbinscleozier.com/</link>
     <atom:link href="http://robbinscleozier.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 02 Nov 2017 17:28:02 -0400</pubDate>
-    <lastBuildDate>Thu, 02 Nov 2017 17:28:02 -0400</lastBuildDate>
+    <pubDate>Sun, 12 Nov 2017 17:32:17 -0500</pubDate>
+    <lastBuildDate>Sun, 12 Nov 2017 17:32:17 -0500</lastBuildDate>
     <generator>Jekyll v3.2.0</generator>
     
       <item>
@@ -154,21 +154,6 @@
       </item>
     
       <item>
-        <title>Vlog 01/12/17</title>
-        <description>&lt;div class=&quot;video-container&quot;&gt;
-&lt;iframe width=&quot;100%&quot; src=&quot;https://www.youtube.com/embed/Ksx8a02nOng&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Thu, 12 Jan 2017 21:42:18 -0500</pubDate>
-        <link>http://robbinscleozier.com/vlog/2017/01/12/vlog.html</link>
-        <guid isPermaLink="true">http://robbinscleozier.com/vlog/2017/01/12/vlog.html</guid>
-        
-        
-        <category>vlog</category>
-        
-      </item>
-    
-      <item>
         <title>New York Winters</title>
         <description>&lt;p&gt;&lt;img src=&quot;http://robbinscleozier.com/assets/images/albums/holidays2016/15403332_1347036375327730_33872869465260032_n.jpg&quot; alt=&quot;NYC Holidays&quot; /&gt;
 &lt;br /&gt;&lt;br /&gt;
@@ -182,6 +167,19 @@
         
         
         <category>photos</category>
+        
+      </item>
+    
+      <item>
+        <title>Brooklyn, Graffiti, and Gentrification: Breaking Down Complex's New Documentary 'No Free Walls'</title>
+        <description>&lt;iframe width=&quot;100%&quot; src=&quot;//player.complex.com/tv/iframe?pId=556f8260656c47a4ab49bf6f2dde85f3&amp;amp;cId=psaTV2NTE6NzSnTGnMSNiJYtKCzz7UNM&amp;amp;adSetCode=3f3b9e47c2954e21bdfb5618c47a61ea&amp;amp;site=complex&amp;amp;kw=&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Sat, 01 Oct 2016 13:00:00 -0400</pubDate>
+        <link>http://robbinscleozier.com/complex/2016/10/01/no-free-walls.html</link>
+        <guid isPermaLink="true">http://robbinscleozier.com/complex/2016/10/01/no-free-walls.html</guid>
+        
+        
+        <category>complex</category>
         
       </item>
     

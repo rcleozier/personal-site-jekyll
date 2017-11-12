@@ -23,7 +23,7 @@
         <script type="text/javascript">
           $(document).ready(function() {
               $('#fullpage').fullpage({
-                anchors: ['philosophy', 'clients', 'contact', 'tumblr'],
+                anchors: ['home', 'philosophy', 'clients', 'contact', 'tumblr'],
                 menu: '#menu-standard',
                 fixedElements: '#navigation',
                 scrollingSpeed: 1000,
@@ -59,6 +59,7 @@
         <div class="row">
             <div id="navigation">
                 <ul id="menu-standard">
+                    <li class="menu-item" data-menuanchor="home"><a href="#philosophy"> Home</a></li>
                     <li class="menu-item" data-menuanchor="philosophy"><a href="#philosophy"> Philosophy</a></li>
                     <li class="menu-item" data-menuanchor="clients"><a href="#clients"> Clients </a></li>
                     <li class="menu-item" data-menuanchor="contact"><a href="#contact">Contact</a></li>
@@ -68,10 +69,30 @@
         </div>
 
         <div id="fullpage">
-        <div class="section active fp-auto-height-responsive" id="section0">
+
+          <div class="section active fp-auto-height-responsive" id="home">
+            <div class="row main-content">
+                <div class="col-md-6">
+                  <div class="row logo"> <a href="index.html"> <img src="images/logo.png"/> </a></div>
+                </div>
+                <div class="col-md-6">
+                    <div class="sidebar-title">  </div>
+                    <div class="sidebar-content" style="margin-top:30%">
+                      EVENT PRODUCTION - SET DESIGN - BUILDING AND FABRICATION
+                      <br/> AV + LIGHTING  - CASTING  - TALENT HANDLING
+                    </div>
+                </div>
+            </div>
+          </div>
+
+
+
+        <div class="section fp-auto-height-responsive" id="section0">
           <div class="row main-content">
               <div class="col-md-6">
-                  <div class="row logo"> <a href="index.html">Beyond 8 </a></div>
+                <div class="row">
+                    <img src="http://beyond8.co/images/headshot-2.png" class="headshot" />
+                </div>
               </div>
               <div class="col-md-6">
                   <div class="sidebar-title"> philosophy </div>

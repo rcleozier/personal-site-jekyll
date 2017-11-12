@@ -95,6 +95,12 @@ body {
 	margin-top: -15px;
 }
 
+.headshot {
+	margin-top: 10px;
+	width: 80%;
+	display: block;
+}
+
 .logo-byline {
 	font-family: "UniversLT Condensed";
 	font-size: 20px;
