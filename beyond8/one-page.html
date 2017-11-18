@@ -12,6 +12,7 @@
         <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
         <link rel="stylesheet" href="stylesheets/main.css">
         <link rel="stylesheet" href="stylesheets/feed.css">
+        <link rel="stylesheet" href="stylesheets/margin.css">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
         <link rel="stylesheet" href="plugins/fullpage/jquery.fullpage.css" />
         <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
@@ -73,11 +74,13 @@
           <div class="section active fp-auto-height-responsive" id="home">
             <div class="row main-content">
                 <div class="col-md-6">
-                  <div class="row logo"> <a href="index.html"> <img src="images/logo.png"/> </a></div>
+                  <div class="row logo margin-40 mobile-m-45">
+                      <a href="index.html"> <img src="images/logo.png"/> </a>
+                  </div>
                 </div>
                 <div class="col-md-6">
                     <div class="sidebar-title">  </div>
-                    <div class="sidebar-content" style="margin-top:30%">
+                    <div class="sidebar-content margin-40 mobile-m-20">
                       EVENT PRODUCTION - SET DESIGN - BUILDING AND FABRICATION
                       <br/> AV + LIGHTING  - CASTING  - TALENT HANDLING
                     </div>
@@ -90,7 +93,7 @@
         <div class="section fp-auto-height-responsive" id="section0">
           <div class="row main-content">
               <div class="col-md-6">
-                <div class="row">
+                <div class="row margin-25">
                     <img src="http://beyond8.co/images/headshot-2.png" class="headshot" />
                 </div>
               </div>
@@ -105,8 +108,9 @@
                     <br/><br/>
                     AFTER 9 YEARS OF SUCCESSFULLY PRODUCING FULL-FLEDGED INTERACTIVE EXPERIENCES, FASHION EVENTS, PRODUCT LAUNCHES, CHARITY FUNCTION, MOVIE PREMIERES AND AFTER PARTIES IN NEW YORK, MIAMI AND LA; WE HAVE ASSEMBLED A TEAM OF INNOVATIVE DESIGNERS TO CREATE STUNNING EVENTS FOR CORPORATE, NON-PROFIT AND INDEPENDENT CLIENTS ALIKE.
                     <br/><br/>
-                    WITH AN EXPERT TEAM OF PRODUCERS, ASSISTANTS AND MANAGERS, BEYOND8 CAN BRING TO FRUITION WHATEVER YOUR IMAGINATION WISHES TO EXPRESS. OUR TEAM HAS LONG STANDING RELATIONSHIPS WITH THE NATION’S BEST VENDORS, VENUES, AND SPECIALISTS TO ENSURE YOUR WISHES ARE FULFILLED.
-
+                    <span class="mobile-hidden">
+                      WITH AN EXPERT TEAM OF PRODUCERS, ASSISTANTS AND MANAGERS, BEYOND8 CAN BRING TO FRUITION WHATEVER YOUR IMAGINATION WISHES TO EXPRESS. OUR TEAM HAS LONG STANDING RELATIONSHIPS WITH THE NATION’S BEST VENDORS, VENUES, AND SPECIALISTS TO ENSURE YOUR WISHES ARE FULFILLED.
+                    </span>
                   </div>
               </div>
           </div>
@@ -114,11 +118,11 @@
 
 
         <div class="section fp-auto-height-responsive" id="section1">
-          <div class="row main-content">
+          <div class="row main-content margin-5">
               <div class="col-md-6">
                   <div class="row logo hidden"> <a href="index.html">Beyond 8 </a></div>
               </div>
-              <div class="col-md-6">
+              <div class="col-md-6 mobile-m-20">
                   <div class="sidebar-title"> Clients </div>
                   <div class="sidebar-content">
                     <div class="row">
@@ -146,16 +150,18 @@
                             <li>Fabolous</li>
                             <li>Frank151</li>
                             <li>Frank151 x DKNY</li>
-                            <li>G-Shock</li>
-                            <li>GEMS</li>
-                            <li>Gigi Burris</li>
-                            <li>Ground Zero</li>
-                            <li>Hood By AIr</li>
-                            <li>Heidi Klum</li>
+
                         </ul>
                       </div>
-                      <div class="col-md-4">
+                      <div class="col-md-4 mobile-hidden">
                         <ul class="client-list">
+                          <li>G-Shock</li>
+                          <li>GEMS</li>
+                          <li>Gigi Burris</li>
+                          <li>Ground Zero</li>
+                          <li>Hood By AIr</li>
+                          <li>Heidi Klum</li>
+
                             <li> HUE </li>
                               <li>Impossible Project</li>
                               <li>INC</li>
@@ -176,17 +182,17 @@
                               <li>Nowness</li>
                               <li>Persol</li>
                               <li>Pigalle</li>
-                              <li>Pronovias</li>
-                              <li>Puma</li>
-                              <li>Pyer Moss</li>
-                              <li>Rakuten</li>
-                              <li>Rebecca Vallance</li>
-                              <li>RVCA</li>
-                              <li>Saunder</li>
                         </ul>
                       </div>
-                      <div class="col-md-4">
+                      <div class="col-md-4 mobile-hidden">
                         <ul class="client-list">
+                          <li>Pronovias</li>
+                          <li>Puma</li>
+                          <li>Pyer Moss</li>
+                          <li>Rakuten</li>
+                          <li>Rebecca Vallance</li>
+                          <li>RVCA</li>
+                          <li>Saunder</li>
                             <li>Scion</li>
                             <li>Sephora</li>
                             <li>Strong Suit</li>
@@ -208,13 +214,13 @@
         </div>
 
         <!-- Section -->
-        <div class="section fp-auto-height-responsive" id="section2">
+        <div class="section fp-auto-height-responsive mobile-m-30" id="section2">
           <div class="row main-content">
               <div class="col-md-6">
                   <div class="row logo hidden"> <a href="index.html">Beyond 8 </a></div>
               </div>
               <div class="col-md-6">
-                  <div class="sidebar-title"> Contact </div>
+                  <div class="sidebar-title margin-20"> Contact </div>
                   <div class="sidebar-content">
                     OFFICE PHONE NUMBER<br/>
                     646.931.5899
@@ -231,19 +237,19 @@
         <!-- Section -->
 
         <!-- Section -->
-        <div class="section p-auto-height-responsive feed-container" id="section2" style="min-height:1000px">
+        <div class="section p-auto-height-responsive feed-container mobile-m-20" id="section2" style="min-height:1000px">
           <div class="row main-content">
               <div class="col-md-4">
                   <div class="row logo hidden"> <a href="index.html">Beyond 8 </a></div>
               </div>
               <div class="col-md-8">
-                <div class="sidebar-title"> Tumblr </div>
                 <div id="feed">
                 </div>
               </div>
           </div>
         </div>
         <!-- Section -->
+
 
       </div>
 
