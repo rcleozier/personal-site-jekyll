@@ -23,11 +23,10 @@ body {
 	left: 0;
 	right: 0;
 	height: 20px;
-
 	padding-right: 15px;
-	    padding-left: 15px;
-	    margin-right: auto;
-	    margin-left: auto;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 #menu-standard {
@@ -162,8 +161,24 @@ body {
 }
 
 @media only screen and (max-width: 600px) {
+
+	.menu-item a {
+		padding: 8px;
+		font-size: 12px;
+	}
+
 	.mobile-hidden {
 		display: none;
+	}
+
+	.mobile-right {
+		float: right;
+		width: 45%;
+	}
+
+	.mobile-left {
+		float: left;
+		width: 45%;
 	}
 
 	.logo {

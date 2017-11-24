@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Pyramid"
+date:   2015-03-04 12:14:10 -0500
+categories: photos
+---
+
+![Pyramid]({{ site.url }}/assets/images/albums/nyc/IMG_0487.JPG)
+<br/><br/>
