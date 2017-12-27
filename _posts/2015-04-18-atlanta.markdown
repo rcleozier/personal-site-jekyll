@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Atlanta Tracks"
+title:  "Railroads Tracks In Atlanta"
 date:   2015-04-08 12:14:10 -0500
 categories: photos
 ---
 
-![Atlanta]({{ site.url }}/assets/images/albums/nyc/IMG_0738.JPG)
+![Railroads Tracks In Atlanta]({{ site.url }}/assets/images/albums/nyc/IMG_0738.JPG)
 <br/><br/>

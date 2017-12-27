@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Radio City"
+title:  "Radio City Music Hall"
 date:   2015-01-15 12:14:10 -0500
 categories: photos
 ---
 
-![Radio City]({{ site.url }}/assets/images/albums/nyc/IMG_0200.JPG)
+![Radio City Music Hall]({{ site.url }}/assets/images/albums/misc/IMG_0200.jpg)
 <br/><br/>
