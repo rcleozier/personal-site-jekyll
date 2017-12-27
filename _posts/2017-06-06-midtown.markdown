@@ -5,5 +5,5 @@ date:   2017-06-05 23:00:10 -0500
 categories: photos
 ---
 
-![NYC Midtown]({{ site.url }}/assets/images/nyc-midtown.png)
+![NYC Midtown]({{ site.url }}/assets/images/albums/nyc/nyc-midtown.jpg)
 <br/><br/>
