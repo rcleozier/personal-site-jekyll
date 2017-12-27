@@ -6,8 +6,8 @@
 </description>
     <link>http://robbinscleozier.com/</link>
     <atom:link href="http://robbinscleozier.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 26 Dec 2017 21:46:35 -0500</pubDate>
-    <lastBuildDate>Tue, 26 Dec 2017 21:46:35 -0500</lastBuildDate>
+    <pubDate>Tue, 26 Dec 2017 21:49:30 -0500</pubDate>
+    <lastBuildDate>Tue, 26 Dec 2017 21:49:30 -0500</lastBuildDate>
     <generator>Jekyll v3.2.0</generator>
     
       <item>
@@ -18,6 +18,20 @@
         <pubDate>Tue, 26 Dec 2017 12:00:10 -0500</pubDate>
         <link>http://robbinscleozier.com/photos/2017/12/26/radio-city.html</link>
         <guid isPermaLink="true">http://robbinscleozier.com/photos/2017/12/26/radio-city.html</guid>
+        
+        
+        <category>photos</category>
+        
+      </item>
+    
+      <item>
+        <title>Midtown</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://robbinscleozier.com/assets/images/albums/misc/IMG_0257.jpg&quot; alt=&quot;NYC&quot; /&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 26 Dec 2017 12:00:10 -0500</pubDate>
+        <link>http://robbinscleozier.com/photos/2017/12/26/midtown.html</link>
+        <guid isPermaLink="true">http://robbinscleozier.com/photos/2017/12/26/midtown.html</guid>
         
         
         <category>photos</category>
@@ -156,22 +170,6 @@
         <pubDate>Tue, 28 Feb 2017 21:42:18 -0500</pubDate>
         <link>http://robbinscleozier.com/photos/2017/02/28/brooklyn.html</link>
         <guid isPermaLink="true">http://robbinscleozier.com/photos/2017/02/28/brooklyn.html</guid>
-        
-        
-        <category>photos</category>
-        
-      </item>
-    
-      <item>
-        <title>UK</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://scontent-lga3-1.cdninstagram.com/t51.2885-15/e35/14719158_941298736015058_6273895820051873792_n.jpg&quot; /&gt;
-&lt;img src=&quot;https://scontent-lga3-1.cdninstagram.com/t51.2885-15/e35/14718244_1845610312340162_5168154462472110080_n.jpg&quot; /&gt;
-&lt;img src=&quot;https://scontent-lga3-1.cdninstagram.com/t51.2885-15/e35/14597468_1205150522885034_4527512751144173568_n.jpg&quot; /&gt;
-&lt;img src=&quot;https://scontent-lga3-1.cdninstagram.com/t51.2885-15/e35/14701104_1825730727704495_5619500390786531328_n.jpg&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 28 Feb 2017 21:42:18 -0500</pubDate>
-        <link>http://robbinscleozier.com/photos/2017/02/28/uk.html</link>
-        <guid isPermaLink="true">http://robbinscleozier.com/photos/2017/02/28/uk.html</guid>
         
         
         <category>photos</category>
