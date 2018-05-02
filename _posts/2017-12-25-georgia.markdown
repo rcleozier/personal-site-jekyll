@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Georgia"
-date:   2017-12-25 11:00:10 -0500
-categories: photos
----
-
-![Haiti]({{ site.url }}/assets/images/albums/misc/georgia.jpg)
-<br/><br/>
