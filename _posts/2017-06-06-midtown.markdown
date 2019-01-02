@@ -6,4 +6,3 @@ categories: photos
 ---
 
 ![NYC Midtown]({{ site.url }}/assets/images/albums/nyc/nyc-midtown.jpg)
-<br/><br/>

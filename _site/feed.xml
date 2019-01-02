@@ -4,20 +4,34 @@
     <title>Rob Cleozier Blog</title>
     <description>My personal blog. Just random photos and programming related posts
 </description>
-    <link>http://robbinscleozier.com/</link>
-    <atom:link href="http://robbinscleozier.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 27 Dec 2017 15:09:43 -0500</pubDate>
-    <lastBuildDate>Wed, 27 Dec 2017 15:09:43 -0500</lastBuildDate>
-    <generator>Jekyll v3.2.0</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 02 Jan 2019 13:32:55 -0500</pubDate>
+    <lastBuildDate>Wed, 02 Jan 2019 13:32:55 -0500</lastBuildDate>
+    <generator>Jekyll v3.6.0</generator>
+    
+      <item>
+        <title>Abandoned</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/albums/misc/IMG_2971.jpg&quot; alt=&quot;Abandoned&quot; /&gt;
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 30 Dec 2017 11:00:10 -0500</pubDate>
+        <link>http://localhost:4000/photos/2017/12/30/abandoned.html</link>
+        <guid isPermaLink="true">http://localhost:4000/photos/2017/12/30/abandoned.html</guid>
+        
+        
+        <category>photos</category>
+        
+      </item>
     
       <item>
         <title>Complex HQ</title>
-        <description>&lt;p&gt;&lt;img src=&quot;http://robbinscleozier.com/assets/images/albums/misc/IMG_2970.jpg&quot; alt=&quot;Complex HQ&quot; /&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/albums/misc/IMG_2970.jpg&quot; alt=&quot;Complex HQ&quot; /&gt;
 &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 27 Dec 2017 11:00:10 -0500</pubDate>
-        <link>http://robbinscleozier.com/photos/2017/12/27/complex.html</link>
-        <guid isPermaLink="true">http://robbinscleozier.com/photos/2017/12/27/complex.html</guid>
+        <link>http://localhost:4000/photos/2017/12/27/complex.html</link>
+        <guid isPermaLink="true">http://localhost:4000/photos/2017/12/27/complex.html</guid>
         
         
         <category>photos</category>
@@ -26,12 +40,11 @@
     
       <item>
         <title>Midtown</title>
-        <description>&lt;p&gt;&lt;img src=&quot;http://robbinscleozier.com/assets/images/albums/misc/IMG_0487.jpg&quot; alt=&quot;NYC&quot; /&gt;
-&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/albums/misc/IMG_0487.jpg&quot; alt=&quot;Midtown&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 24 Dec 2017 23:00:10 -0500</pubDate>
-        <link>http://robbinscleozier.com/photos/2017/12/24/manhattan.html</link>
-        <guid isPermaLink="true">http://robbinscleozier.com/photos/2017/12/24/manhattan.html</guid>
+        <link>http://localhost:4000/photos/2017/12/24/manhattan.html</link>
+        <guid isPermaLink="true">http://localhost:4000/photos/2017/12/24/manhattan.html</guid>
         
         
         <category>photos</category>
@@ -40,15 +53,14 @@
     
       <item>
         <title>Haiti</title>
-        <description>&lt;p&gt;&lt;img src=&quot;http://robbinscleozier.com/assets/images/albums/haiti/20687264_115887869069151_253146411808325632_n.jpg&quot; alt=&quot;Haiti&quot; /&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/albums/haiti/20687264_115887869069151_253146411808325632_n.jpg&quot; alt=&quot;Haiti&quot; /&gt;
 &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://robbinscleozier.com/assets/images/albums/haiti/20759689_110404826314318_9025147201516470272_n.jpg&quot; alt=&quot;Haiti&quot; /&gt;
-&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/albums/haiti/20759689_110404826314318_9025147201516470272_n.jpg&quot; alt=&quot;Haiti&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 25 Aug 2017 13:14:10 -0400</pubDate>
-        <link>http://robbinscleozier.com/photos/2017/08/25/haiti.html</link>
-        <guid isPermaLink="true">http://robbinscleozier.com/photos/2017/08/25/haiti.html</guid>
+        <link>http://localhost:4000/photos/2017/08/25/haiti.html</link>
+        <guid isPermaLink="true">http://localhost:4000/photos/2017/08/25/haiti.html</guid>
         
         
         <category>photos</category>
@@ -57,12 +69,11 @@
     
       <item>
         <title>Midtown</title>
-        <description>&lt;p&gt;&lt;img src=&quot;http://robbinscleozier.com/assets/images/albums/nyc/nyc-midtown.jpg&quot; alt=&quot;NYC Midtown&quot; /&gt;
-&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/albums/nyc/nyc-midtown.jpg&quot; alt=&quot;NYC Midtown&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 06 Jun 2017 00:00:10 -0400</pubDate>
-        <link>http://robbinscleozier.com/photos/2017/06/06/midtown.html</link>
-        <guid isPermaLink="true">http://robbinscleozier.com/photos/2017/06/06/midtown.html</guid>
+        <link>http://localhost:4000/photos/2017/06/05/midtown.html</link>
+        <guid isPermaLink="true">http://localhost:4000/photos/2017/06/05/midtown.html</guid>
         
         
         <category>photos</category>
@@ -71,12 +82,12 @@
     
       <item>
         <title>Empire State</title>
-        <description>&lt;p&gt;&lt;img src=&quot;http://robbinscleozier.com/assets/images/albums/nyc/empire-state.jpg&quot; alt=&quot;Empire State&quot; /&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/albums/nyc/empire-state.jpg&quot; alt=&quot;Empire State&quot; /&gt;
 &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 06 Jun 2017 00:00:10 -0400</pubDate>
-        <link>http://robbinscleozier.com/photos/2017/06/06/empire-state.html</link>
-        <guid isPermaLink="true">http://robbinscleozier.com/photos/2017/06/06/empire-state.html</guid>
+        <link>http://localhost:4000/photos/2017/06/05/empire-state.html</link>
+        <guid isPermaLink="true">http://localhost:4000/photos/2017/06/05/empire-state.html</guid>
         
         
         <category>photos</category>
@@ -85,24 +96,24 @@
     
       <item>
         <title>Eastern State Prison</title>
-        <description>&lt;p&gt;&lt;img src=&quot;http://robbinscleozier.com/assets/images/albums/eastern-state/4CB22D00-B934-4507-8D95-132133284A9D.jpg&quot; alt=&quot;Eastern State Prison&quot; /&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/albums/eastern-state/4CB22D00-B934-4507-8D95-132133284A9D.jpg&quot; alt=&quot;Eastern State Prison&quot; /&gt;
 &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://robbinscleozier.com/assets/images/albums/eastern-state/8F81476E-4B36-47A7-965E-25D43BEC5E9E.jpg&quot; alt=&quot;Eastern State Prison&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/albums/eastern-state/8F81476E-4B36-47A7-965E-25D43BEC5E9E.jpg&quot; alt=&quot;Eastern State Prison&quot; /&gt;
 &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://robbinscleozier.com/assets/images/albums/eastern-state/31B9BDD8-5198-4D4B-8EFC-082682668D5C.jpg&quot; alt=&quot;Eastern State Prison&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/albums/eastern-state/31B9BDD8-5198-4D4B-8EFC-082682668D5C.jpg&quot; alt=&quot;Eastern State Prison&quot; /&gt;
 &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://robbinscleozier.com/assets/images/albums/eastern-state/B79804CA-1FB3-410C-89DA-4CA5FADDE55A.jpg&quot; alt=&quot;Eastern State Prison&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/albums/eastern-state/B79804CA-1FB3-410C-89DA-4CA5FADDE55A.jpg&quot; alt=&quot;Eastern State Prison&quot; /&gt;
 &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://robbinscleozier.com/assets/images/albums/eastern-state/CC0FC75B-2043-462C-8BA0-E0A693042095.jpg&quot; alt=&quot;Eastern State Prison&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/albums/eastern-state/CC0FC75B-2043-462C-8BA0-E0A693042095.jpg&quot; alt=&quot;Eastern State Prison&quot; /&gt;
 &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 14 Apr 2017 22:42:18 -0400</pubDate>
-        <link>http://robbinscleozier.com/photos/2017/04/14/eastern-state-prison.html</link>
-        <guid isPermaLink="true">http://robbinscleozier.com/photos/2017/04/14/eastern-state-prison.html</guid>
+        <link>http://localhost:4000/photos/2017/04/14/eastern-state-prison.html</link>
+        <guid isPermaLink="true">http://localhost:4000/photos/2017/04/14/eastern-state-prison.html</guid>
         
         
         <category>photos</category>
@@ -111,56 +122,24 @@
     
       <item>
         <title>Subway</title>
-        <description>&lt;p&gt;&lt;img src=&quot;http://robbinscleozier.com/assets/images/albums/nyc-subway/2BE4A66F-65AC-40EC-8E69-4CF95DF80CBC.jpg&quot; alt=&quot;NYC Subway&quot; /&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/albums/nyc-subway/2BE4A66F-65AC-40EC-8E69-4CF95DF80CBC.jpg&quot; alt=&quot;NYC Subway&quot; /&gt;
 &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://robbinscleozier.com/assets/images/albums/nyc-subway/358A976E-9BCD-4810-BE1E-85450BC55EE1.jpg&quot; alt=&quot;NYC Subway&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/albums/nyc-subway/358A976E-9BCD-4810-BE1E-85450BC55EE1.jpg&quot; alt=&quot;NYC Subway&quot; /&gt;
 &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://robbinscleozier.com/assets/images/albums/nyc-subway/228058AD5-A9A4-4D19-835C-F0ABDB001B32.jpg&quot; alt=&quot;NYC Subway&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/albums/nyc-subway/228058AD5-A9A4-4D19-835C-F0ABDB001B32.jpg&quot; alt=&quot;NYC Subway&quot; /&gt;
 &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://robbinscleozier.com/assets/images/albums/nyc-subway/D742A606-5A1F-4E5C-9141-9B701402B15C.jpg&quot; alt=&quot;NYC Subway&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/albums/nyc-subway/D742A606-5A1F-4E5C-9141-9B701402B15C.jpg&quot; alt=&quot;NYC Subway&quot; /&gt;
 &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://robbinscleozier.com/assets/images/albums/nyc-subway/DA1E3377-AE12-4B30-8873-FB855FCA6827.jpg&quot; alt=&quot;NYC Subway&quot; /&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/albums/nyc-subway/DA1E3377-AE12-4B30-8873-FB855FCA6827.jpg&quot; alt=&quot;NYC Subway&quot; /&gt;
 &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 28 Feb 2017 21:42:18 -0500</pubDate>
-        <link>http://robbinscleozier.com/photos/2017/02/28/nyc-subway.html</link>
-        <guid isPermaLink="true">http://robbinscleozier.com/photos/2017/02/28/nyc-subway.html</guid>
-        
-        
-        <category>photos</category>
-        
-      </item>
-    
-      <item>
-        <title>Brooklyn</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://scontent-lga3-1.cdninstagram.com/t51.2885-15/e35/15877477_751468955008639_7298971232181944320_n.jpg&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 28 Feb 2017 21:42:18 -0500</pubDate>
-        <link>http://robbinscleozier.com/photos/2017/02/28/brooklyn.html</link>
-        <guid isPermaLink="true">http://robbinscleozier.com/photos/2017/02/28/brooklyn.html</guid>
-        
-        
-        <category>photos</category>
-        
-      </item>
-    
-      <item>
-        <title>London</title>
-        <description>&lt;p&gt;&lt;img src=&quot;https://scontent-lga3-1.cdninstagram.com/t51.2885-15/e35/14719158_941298736015058_6273895820051873792_n.jpg&quot; /&gt;
-&lt;br /&gt;
-&lt;img src=&quot;https://scontent-lga3-1.cdninstagram.com/t51.2885-15/e35/14718244_1845610312340162_5168154462472110080_n.jpg&quot; /&gt;
-&lt;br /&gt;
-&lt;img src=&quot;https://scontent-lga3-1.cdninstagram.com/t51.2885-15/e35/14597468_1205150522885034_4527512751144173568_n.jpg&quot; /&gt;
-&lt;br /&gt;
-&lt;img src=&quot;https://scontent-lga3-1.cdninstagram.com/t51.2885-15/e35/14701104_1825730727704495_5619500390786531328_n.jpg&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 28 Feb 2017 21:42:18 -0500</pubDate>
-        <link>http://robbinscleozier.com/photos/2017/02/28/uk.html</link>
-        <guid isPermaLink="true">http://robbinscleozier.com/photos/2017/02/28/uk.html</guid>
+        <link>http://localhost:4000/photos/2017/02/28/nyc-subway.html</link>
+        <guid isPermaLink="true">http://localhost:4000/photos/2017/02/28/nyc-subway.html</guid>
         
         
         <category>photos</category>
@@ -169,18 +148,35 @@
     
       <item>
         <title>Paris</title>
-        <description>&lt;p&gt;&lt;img src=&quot;http://robbinscleozier.com/assets/images/albums/paris/IMG_2976.JPG&quot; alt=&quot;Paris&quot; /&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/assets/images/albums/paris/IMG_2976.JPG&quot; alt=&quot;Paris&quot; /&gt;
 &lt;br /&gt;&lt;br /&gt;
-&lt;img src=&quot;http://robbinscleozier.com/assets/images/albums/paris/IMG_2977.JPG&quot; alt=&quot;Paris&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/assets/images/albums/paris/IMG_2977.JPG&quot; alt=&quot;Paris&quot; /&gt;
 &lt;br /&gt;&lt;br /&gt;
-&lt;img src=&quot;http://robbinscleozier.com/assets/images/albums/paris/IMG_2979.JPG&quot; alt=&quot;Paris&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/assets/images/albums/paris/IMG_2979.JPG&quot; alt=&quot;Paris&quot; /&gt;
 &lt;br /&gt;&lt;br /&gt;
-&lt;img src=&quot;http://robbinscleozier.com/assets/images/albums/paris/IMG_2980.JPG&quot; alt=&quot;Paris&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/assets/images/albums/paris/IMG_2980.JPG&quot; alt=&quot;Paris&quot; /&gt;
 &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 28 Feb 2017 21:42:18 -0500</pubDate>
-        <link>http://robbinscleozier.com/photos/2017/02/28/paris.html</link>
-        <guid isPermaLink="true">http://robbinscleozier.com/photos/2017/02/28/paris.html</guid>
+        <link>http://localhost:4000/photos/2017/02/28/paris.html</link>
+        <guid isPermaLink="true">http://localhost:4000/photos/2017/02/28/paris.html</guid>
+        
+        
+        <category>photos</category>
+        
+      </item>
+    
+      <item>
+        <title>NYC</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/albums/nyc-grit/5BDD065C-85B7-4FA4-B803-0618605819E9.jpg&quot; alt=&quot;NYC Grit&quot; /&gt;
+&lt;br /&gt;&lt;br /&gt;
+&lt;img src=&quot;/assets/images/albums/nyc-grit/A170C861-A4B4-4EB3-AAFF-E851FAE3C831.jpg&quot; alt=&quot;NYC Grit&quot; /&gt;
+&lt;br /&gt;&lt;br /&gt;
+&lt;img src=&quot;/assets/images/albums/nyc-grit/DBE3A2B3-0D91-4770-95DE-C0BC859C933B.jpg&quot; alt=&quot;NYC Grit&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 13 Feb 2017 21:42:18 -0500</pubDate>
+        <link>http://localhost:4000/photos/2017/02/13/nyc-grit.html</link>
+        <guid isPermaLink="true">http://localhost:4000/photos/2017/02/13/nyc-grit.html</guid>
         
         
         <category>photos</category>

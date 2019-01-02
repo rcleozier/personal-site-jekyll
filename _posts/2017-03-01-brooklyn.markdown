@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Brooklyn"
-date:   2017-02-28 21:42:18 -0500
-categories: photos
----
-
-<img src="https://scontent-lga3-1.cdninstagram.com/t51.2885-15/e35/15877477_751468955008639_7298971232181944320_n.jpg" />

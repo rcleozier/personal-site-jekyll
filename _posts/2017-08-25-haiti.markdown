@@ -9,4 +9,3 @@ categories: photos
 <br/><br/>
 
 ![Haiti]({{ site.url }}/assets/images/albums/haiti/20759689_110404826314318_9025147201516470272_n.jpg)
-<br/><br/>
