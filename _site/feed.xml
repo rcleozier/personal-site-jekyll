@@ -6,9 +6,9 @@
 </description>
     <link>http://robbinscleozier.com/</link>
     <atom:link href="http://robbinscleozier.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 02 Jan 2019 13:56:06 -0500</pubDate>
-    <lastBuildDate>Wed, 02 Jan 2019 13:56:06 -0500</lastBuildDate>
-    <generator>Jekyll v3.6.0</generator>
+    <pubDate>Wed, 02 Jan 2019 23:23:27 -0500</pubDate>
+    <lastBuildDate>Wed, 02 Jan 2019 23:23:27 -0500</lastBuildDate>
+    <generator>Jekyll v3.7.0</generator>
     
       <item>
         <title>The Oculus</title>
@@ -46,19 +46,6 @@
         <pubDate>Wed, 27 Dec 2017 11:00:10 -0500</pubDate>
         <link>http://robbinscleozier.com/photos/2017/12/27/complex.html</link>
         <guid isPermaLink="true">http://robbinscleozier.com/photos/2017/12/27/complex.html</guid>
-        
-        
-        <category>photos</category>
-        
-      </item>
-    
-      <item>
-        <title>Midtown</title>
-        <description>&lt;p&gt;&lt;img src=&quot;http://robbinscleozier.com/assets/images/albums/misc/IMG_0487.jpg&quot; alt=&quot;Midtown&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 24 Dec 2017 23:00:10 -0500</pubDate>
-        <link>http://robbinscleozier.com/photos/2017/12/24/manhattan.html</link>
-        <guid isPermaLink="true">http://robbinscleozier.com/photos/2017/12/24/manhattan.html</guid>
         
         
         <category>photos</category>
@@ -174,6 +161,23 @@
         <pubDate>Tue, 28 Feb 2017 21:42:18 -0500</pubDate>
         <link>http://robbinscleozier.com/photos/2017/02/28/paris.html</link>
         <guid isPermaLink="true">http://robbinscleozier.com/photos/2017/02/28/paris.html</guid>
+        
+        
+        <category>photos</category>
+        
+      </item>
+    
+      <item>
+        <title>NYC</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/images/albums/nyc-grit/5BDD065C-85B7-4FA4-B803-0618605819E9.jpg&quot; alt=&quot;NYC Grit&quot; /&gt;
+&lt;br /&gt;&lt;br /&gt;
+&lt;img src=&quot;/assets/images/albums/nyc-grit/A170C861-A4B4-4EB3-AAFF-E851FAE3C831.jpg&quot; alt=&quot;NYC Grit&quot; /&gt;
+&lt;br /&gt;&lt;br /&gt;
+&lt;img src=&quot;/assets/images/albums/nyc-grit/DBE3A2B3-0D91-4770-95DE-C0BC859C933B.jpg&quot; alt=&quot;NYC Grit&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 13 Feb 2017 21:42:18 -0500</pubDate>
+        <link>http://robbinscleozier.com/photos/2017/02/13/nyc-grit.html</link>
+        <guid isPermaLink="true">http://robbinscleozier.com/photos/2017/02/13/nyc-grit.html</guid>
         
         
         <category>photos</category>
