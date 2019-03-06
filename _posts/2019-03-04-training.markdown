@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Training"
+date:   2019-03-04 11:00:10 -0500
+categories: video
+---
+
+<video muted autoplay controls>
+    <source src="{{ site.url }}/videos/vue_video_cache_filtered_spliced.mp4" type="video/mp4">
+</video>

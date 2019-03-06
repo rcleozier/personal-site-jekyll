@@ -6,9 +6,24 @@
 </description>
     <link>http://robbinscleozier.com/</link>
     <atom:link href="http://robbinscleozier.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 06 Mar 2019 16:27:40 -0500</pubDate>
-    <lastBuildDate>Wed, 06 Mar 2019 16:27:40 -0500</lastBuildDate>
+    <pubDate>Wed, 06 Mar 2019 16:50:12 -0500</pubDate>
+    <lastBuildDate>Wed, 06 Mar 2019 16:50:12 -0500</lastBuildDate>
     <generator>Jekyll v3.7.0</generator>
+    
+      <item>
+        <title>Training</title>
+        <description>&lt;video muted=&quot;&quot; autoplay=&quot;&quot; controls=&quot;&quot;&gt;
+    &lt;source src=&quot;http://robbinscleozier.com/videos/vue_video_cache_filtered_spliced.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+&lt;/video&gt;
+</description>
+        <pubDate>Mon, 04 Mar 2019 11:00:10 -0500</pubDate>
+        <link>http://robbinscleozier.com/video/2019/03/04/training.html</link>
+        <guid isPermaLink="true">http://robbinscleozier.com/video/2019/03/04/training.html</guid>
+        
+        
+        <category>video</category>
+        
+      </item>
     
       <item>
         <title>Vatican</title>
@@ -137,32 +152,6 @@
         <pubDate>Fri, 14 Apr 2017 22:42:18 -0400</pubDate>
         <link>http://robbinscleozier.com/photos/2017/04/14/eastern-state-prison.html</link>
         <guid isPermaLink="true">http://robbinscleozier.com/photos/2017/04/14/eastern-state-prison.html</guid>
-        
-        
-        <category>photos</category>
-        
-      </item>
-    
-      <item>
-        <title>Subway</title>
-        <description>&lt;p&gt;&lt;img src=&quot;http://robbinscleozier.com/assets/images/albums/nyc-subway/2BE4A66F-65AC-40EC-8E69-4CF95DF80CBC.jpg&quot; alt=&quot;NYC Subway&quot; /&gt;
-&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://robbinscleozier.com/assets/images/albums/nyc-subway/358A976E-9BCD-4810-BE1E-85450BC55EE1.jpg&quot; alt=&quot;NYC Subway&quot; /&gt;
-&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://robbinscleozier.com/assets/images/albums/nyc-subway/228058AD5-A9A4-4D19-835C-F0ABDB001B32.jpg&quot; alt=&quot;NYC Subway&quot; /&gt;
-&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://robbinscleozier.com/assets/images/albums/nyc-subway/D742A606-5A1F-4E5C-9141-9B701402B15C.jpg&quot; alt=&quot;NYC Subway&quot; /&gt;
-&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://robbinscleozier.com/assets/images/albums/nyc-subway/DA1E3377-AE12-4B30-8873-FB855FCA6827.jpg&quot; alt=&quot;NYC Subway&quot; /&gt;
-&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 28 Feb 2017 21:42:18 -0500</pubDate>
-        <link>http://robbinscleozier.com/photos/2017/02/28/nyc-subway.html</link>
-        <guid isPermaLink="true">http://robbinscleozier.com/photos/2017/02/28/nyc-subway.html</guid>
         
         
         <category>photos</category>
