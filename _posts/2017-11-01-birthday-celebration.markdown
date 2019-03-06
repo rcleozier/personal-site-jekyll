@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Birthday Celebration"
+title:  "Celebration"
 date:   2017-11-01 11:00:10 -0500
 categories: photos
 ---

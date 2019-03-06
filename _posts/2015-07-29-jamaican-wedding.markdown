@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Wedding In Jamaica"
+title:  "Jamaica"
 date:   2015-07-29 12:42:18 -0500
 categories: photos
 ---

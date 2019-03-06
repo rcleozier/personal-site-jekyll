@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Eastern State Prison"
+title:  "Prison"
 date:   2017-04-14 21:42:18 -0500
 categories: photos
 ---

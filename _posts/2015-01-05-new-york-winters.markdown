@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "New York Winter"
+title:  "Winter Time"
 date:   2015-01-05 12:42:18 -0500
 categories: photos
 ---
