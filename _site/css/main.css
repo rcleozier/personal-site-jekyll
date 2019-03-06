@@ -151,8 +151,10 @@ pre {
   height: 0;
   overflow: hidden; }
 
+video,
 .video-container iframe,
 .video-container object,
+.video-container video,
 .video-container embed {
   position: absolute;
   top: 0;

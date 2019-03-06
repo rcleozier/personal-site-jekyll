@@ -210,9 +210,11 @@ pre {
     padding-bottom: 56.25%;
     padding-top: 30px; height: 0; overflow: hidden;
 }
- 
+
+video,
 .video-container iframe,
 .video-container object,
+.video-container video,
 .video-container embed {
     position: absolute;
     top: 0;
