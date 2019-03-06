@@ -6,4 +6,3 @@ categories: photos
 ---
 
 ![Abandoned]({{ site.url }}/assets/images/albums/misc/IMG_2971.jpg)
-<br/><br/>

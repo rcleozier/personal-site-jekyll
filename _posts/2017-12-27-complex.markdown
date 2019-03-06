@@ -6,4 +6,3 @@ categories: photos
 ---
 
 ![Complex HQ]({{ site.url }}/assets/images/albums/misc/IMG_2970.jpg)
-<br/><br/>

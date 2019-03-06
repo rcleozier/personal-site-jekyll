@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Clouds"
+date:   2019-01-07 11:00:10 -0500
+categories: photos
+---
+
+![In The Clouds]({{ site.url }}/assets/images/albums/misc/2B7101DA-1529-4126-9149-DB3E7CA4BBE2.jpg)

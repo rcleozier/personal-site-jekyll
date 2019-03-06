@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "London"
+date:   2019-01-05 11:00:10 -0500
+categories: photos
+---
+
+![London Eye]({{ site.url }}/assets/images/albums/misc/8C6F9F57-CB92-48FA-8AC5-9D57C7309C5C.jpg)
