@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cape May"
+title:  "Cape"
 date:   2015-09-03 12:42:18 -0500
 categories: photos
 ---

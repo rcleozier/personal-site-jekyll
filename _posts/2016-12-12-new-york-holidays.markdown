@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Winter in Brooklyn"
+title:  "Brooklyn"
 date:   2016-12-25 21:42:18 -0500
 categories: photos
 ---

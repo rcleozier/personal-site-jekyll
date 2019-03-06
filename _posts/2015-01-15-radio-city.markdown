@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Radio City"
+title:  "Radio"
 date:   2015-01-15 12:14:10 -0500
 categories: photos
 ---
