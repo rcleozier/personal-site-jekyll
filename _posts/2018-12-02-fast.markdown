@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Fast"
+date:   2018-12-02 11:00:10 -0500
+categories: fast
+---
+
+![Acura NSX]({{ site.url }}/assets/images/albums/misc/59417C48-5A99-4562-B19C-BD0F9C89B4A1.jpg)

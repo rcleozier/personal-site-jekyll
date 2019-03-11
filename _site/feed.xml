@@ -6,26 +6,9 @@
 </description>
     <link>http://robbinscleozier.com/</link>
     <atom:link href="http://robbinscleozier.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 06 Mar 2019 16:56:14 -0500</pubDate>
-    <lastBuildDate>Wed, 06 Mar 2019 16:56:14 -0500</lastBuildDate>
+    <pubDate>Mon, 11 Mar 2019 14:45:47 -0400</pubDate>
+    <lastBuildDate>Mon, 11 Mar 2019 14:45:47 -0400</lastBuildDate>
     <generator>Jekyll v3.7.0</generator>
-    
-      <item>
-        <title>Training</title>
-        <description>&lt;div class=&quot;video-container&quot;&gt;
-  &lt;video muted=&quot;&quot; autoplay=&quot;&quot; controls=&quot;&quot;&gt;
-      &lt;source src=&quot;http://robbinscleozier.com/assets/video/vue_video_cache_filtered_spliced.mp4&quot; type=&quot;video/mp4&quot; /&gt;
-  &lt;/video&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Mon, 04 Mar 2019 11:00:10 -0500</pubDate>
-        <link>http://robbinscleozier.com/video/2019/03/04/training.html</link>
-        <guid isPermaLink="true">http://robbinscleozier.com/video/2019/03/04/training.html</guid>
-        
-        
-        <category>video</category>
-        
-      </item>
     
       <item>
         <title>Vatican</title>
@@ -76,6 +59,19 @@
         
         
         <category>photos</category>
+        
+      </item>
+    
+      <item>
+        <title>Fast</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://robbinscleozier.com/assets/images/albums/misc/59417C48-5A99-4562-B19C-BD0F9C89B4A1.jpg&quot; alt=&quot;Acura NSX&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 02 Dec 2018 11:00:10 -0500</pubDate>
+        <link>http://robbinscleozier.com/fast/2018/12/02/fast.html</link>
+        <guid isPermaLink="true">http://robbinscleozier.com/fast/2018/12/02/fast.html</guid>
+        
+        
+        <category>fast</category>
         
       </item>
     

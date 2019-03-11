@@ -11,7 +11,7 @@ description: > # this means to ignore newlines until "baseurl:"
   My personal blog
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://robbinscleozier.com" # the base hostname & protocol for your site
-twitter_username: robsmanifesto
+instagram_username: robsmanifesto
 github_username:  rcleozier
 
 # Build settings
